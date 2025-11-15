@@ -1,4 +1,5 @@
 # 💫 Hi, I'm Noor!!
+
 Full Stack Developer working on my Capstone Project<br>
 Studying Computer Science in HTU, Amman, Jordan <br>
 Designing, drawing, and writing enthusiastic <br>
@@ -7,22 +8,21 @@ Designing, drawing, and writing enthusiastic <br>
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://instagram.com/noor_a_abumaria" target="_blank">
+  <a href="https://instagram.com/noor_a_abumaria">
     <img src="https://github.com/user-attachments/assets/a5baffb7-aecd-42f0-a3f9-3c9289af450f" alt="Instagram" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   </a>
-  <a href="https://linkedin.com/in/noorabumaria" target="_blank">
+  <a href="https://linkedin.com/in/noorabumaria">
     <img src="https://github.com/user-attachments/assets/ab811f15-e624-4971-b597-5320c81db709" alt="LinkedIn" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
   </a>
-  <a href="mailto:noorabumaria1999@gmail.com" target="_blank">
+  <a href="mailto:noorabumaria1999@gmail.com">
     <img src="https://github.com/user-attachments/assets/5589ee3f-fa2b-4ddc-bef2-2720eaf515ca" alt="Gmail" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
 
-### 💻 Tech Stack
+### 💻 Languages & Tools
 
 <p align="left">
-  <!-- Programming Languages -->
   <img src="https://github.com/user-attachments/assets/a85741f5-5f8a-4ca7-bc99-9b68e37accf5" alt="C" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/a6001159-defe-46fd-aaca-b4d54a4acdfd" alt="C#" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/d14f6837-4990-4827-88cf-fb536725f902" alt="C++" width="40" height="40"/> &nbsp;&nbsp;
@@ -44,21 +44,5 @@ Designing, drawing, and writing enthusiastic <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NoorAbuMaria&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NoorAbuMaria&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAbuMaria&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NoorAbuMaria&theme=rose&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NoorAbuMaria&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=NoorAbuMaria&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
