@@ -32,26 +32,15 @@ Designing, drawing, and writing enthusiastic <br>
   <img src="https://github.com/user-attachments/assets/e4322772-1cb9-4ca0-a2f4-5095fc6882e3" alt="PHP" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/70b7a956-d692-4886-a832-cfcfc756ed42" alt="Python" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/3b2f583e-4a0c-4e57-ae74-bd81f4f268fb" alt=".NET" width="40" height="40"/> &nbsp;&nbsp;
-
-  <!-- Databases -->
   <img src="https://github.com/user-attachments/assets/8320f8e7-9265-493c-871c-fd622a3dab33" alt="MySQL" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"/> &nbsp;&nbsp;
-
-<upadtes>
-  <!-- Tools & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d4dcd470-3407-496e-a8ff-d004868e1ba5" alt="Figma" width="40" height="40"/>  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>  &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>  &nbsp;&nbsp;
-
-  <!-- Hardware & Embedded -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="40" height="40"/>  &nbsp;&nbsp;
-
-  <!-- Game Development -->
+  <img src="https://github.com/user-attachments/assets/57618395-a9da-4f53-aa58-09d57da8ad44" alt="Cisco" width="40" height="40"/>  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>  &nbsp;&nbsp;
-
-  <!-- Development Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
